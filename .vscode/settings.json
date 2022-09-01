@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "unistd.h": "c",
+        "add.h": "c",
+        "registro_archivo.h": "c",
+        "copiar.h": "c",
+        "struct_datos.h": "c",
+        "guardar_db.h": "c"
+    }
+}
