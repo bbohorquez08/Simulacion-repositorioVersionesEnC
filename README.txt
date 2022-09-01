@@ -1,5 +1,5 @@
 Elaborado por : Juan Fernando Abella      <jabella@unicauca.edu.co>
-                Brandon Nicolas Bohorquez <Bbhorquez@unicauca.edu.co>
+                Brandon Nicolas Bohorquez <bbohorquez@unicauca.edu.co>
 
 Sistema de Control de Versiones:
 
